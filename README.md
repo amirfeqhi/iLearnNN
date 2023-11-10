@@ -1,4 +1,4 @@
-# iLearnNN Machine Learning Repository
+# iLearnNN
 
 This repository is part of my machine learning learning journey inspired by the Coursera Machine Learning Specialization. It contains projects related to decision trees, machine learning advice, and neural network implementations for binary and multiclass classification tasks.
 
